@@ -1,5 +1,5 @@
 <div id="banner" align="center">
-  <img src = "https://media.giphy.com/media/noZcx30MrDozK/giphy.gif" width="150px" height="150px" />
+  <img src="https://media.giphy.com/media/eBwoctZiC3lss/giphy.gif" width="150px" height="150px"/>
 </div>
 <h1>
   :memo: Exercício: Setup de Ferramentas :metal:
@@ -20,7 +20,7 @@
 </div>
 <h2>&nbsp;</h2>
 <div id="footer">
-  <img src="https://media.giphy.com/media/eBwoctZiC3lss/giphy.gif" width="100px" height="100px"/>
+  <img src = "https://media.giphy.com/media/noZcx30MrDozK/giphy.gif" width="150px" height="150px" />
   <!-- 
   <img src="https://media.giphy.com/media/JOrBpgP5CkzU4/giphy.gif" width="100%" height="500px"/>
   <img src="https://media.giphy.com/media/UgdsbZzb2MIjS/giphy.gif" width="100px" height="100px"/>
