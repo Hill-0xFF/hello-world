@@ -1,5 +1,5 @@
 <div id="banner" align="center">
-  <img src="https://media.giphy.com/media/eBwoctZiC3lss/giphy.gif" width="150px" height="150px"/>
+  <img src="https://media.giphy.com/media/eBwoctZiC3lss/giphy.gif" width="250px" height="250px"/>
 </div>
 <h1>
   :memo: Exercício: Setup de Ferramentas :metal:
@@ -19,7 +19,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="70" height="70"/>&nbsp; e Cadernos.... :memo: :memo: :memo: 
 </div>
 <h2>&nbsp;</h2>
-<div id="footer">
+<div id="footer" align="center">
   <img src = "https://media.giphy.com/media/noZcx30MrDozK/giphy.gif" width="150px" height="150px" />
   <!-- 
   <img src="https://media.giphy.com/media/JOrBpgP5CkzU4/giphy.gif" width="100%" height="500px"/>
