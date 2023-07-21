@@ -16,16 +16,16 @@
 
 <h2>  📋 📎 <b>Tools:</b></h2>
 <div id="tools">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="70" height="70"/>&nbsp;
-  e Cadernos.... :memo: :memo: :memo: 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="70" height="70"/>&nbsp; e Cadernos.... :memo: :memo: :memo: 
 </div>
 <h2>&nbsp;</h2>
 <div id="footer">
-  <img src="https://media.giphy.com/media/dvm11PmK3jSuc/giphy.gif" width="100px" height="100px"/>
+  <img src="https://media.giphy.com/media/zB6tTWcZOSQyA/giphy.gif" width="100px" height="100px"/>
   <!-- 
   <img src="https://media.giphy.com/media/JOrBpgP5CkzU4/giphy.gif" width="100%" height="500px"/>
   <img src="https://media.giphy.com/media/UgdsbZzb2MIjS/giphy.gif" width="100px" height="100px"/>
   <img src="https://media.giphy.com/media/Sze7YjOJjS24w/giphy.gif" width="100px" height="100px"/>
   <img src="https://media.giphy.com/media/eBwoctZiC3lss/giphy.gif" width="100px" height="100px"/>
-  <img src="https://media.giphy.com/media/zB6tTWcZOSQyA/giphy.gif" width="100px" height="100px"/> -->
+  <img src="https://media.giphy.com/media/dvm11PmK3jSuc/giphy.gif" width="100px" height="100px"/>
+  -->
 </div>
